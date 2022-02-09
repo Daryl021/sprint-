@@ -1,0 +1,14 @@
+body{   
+    margin: 50px 200px 0px 200px;
+}
+.box1{ 
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+}
+li{
+    text-indent: 160px; 
+}
